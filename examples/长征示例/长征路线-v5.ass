@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,46,&H00F8FBFF,&H00F8FBFF,&H00201812,&H64000000,0,0,0,0,100,100,0.6,0,1,2.2,1.2,2,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.14,0:00:04.30,Default,,0,0,0,,{\an2\pos(640,688)}一九三四年十月中央红军从江西瑞金出发
+Dialogue: 0,0:00:04.30,0:00:07.08,Default,,0,0,0,,{\an2\pos(640,688)}踏上了举世闻名的长征之路
+Dialogue: 0,0:00:07.08,0:00:09.85,Default,,0,0,0,,{\an2\pos(640,688)}那一年没有人知道要走多远
+Dialogue: 0,0:00:09.85,0:00:12.16,Default,,0,0,0,,{\an2\pos(640,688)}只知道必须一直往前走
+Dialogue: 0,0:00:12.98,0:00:17.24,Default,,0,0,0,,{\an2\pos(640,688)}队伍一路向西突围接连突破几道封锁线
+Dialogue: 0,0:00:17.24,0:00:19.25,Default,,0,0,0,,{\an2\pos(640,688)}湘江一战最为惨烈
+Dialogue: 0,0:00:19.25,0:00:22.26,Default,,0,0,0,,{\an2\pos(640,688)}部队付出了极其沉重的代价
+Dialogue: 0,0:00:22.84,0:00:25.94,Default,,0,0,0,,{\an2\pos(640,688)}一九三五年一月红军攻占遵义
+Dialogue: 0,0:00:25.94,0:00:29.98,Default,,0,0,0,,{\an2\pos(640,688)}在这里召开的会议重新确立了领导核心
+Dialogue: 0,0:00:29.98,0:00:34.04,Default,,0,0,0,,{\an2\pos(640,688)}也让这支队伍在绝境中重新找到了方向
+Dialogue: 0,0:00:34.04,0:00:35.94,Default,,0,0,0,,{\an2\pos(640,688)}成为历史的转折点
+Dialogue: 0,0:00:35.94,0:00:39.31,Default,,0,0,0,,{\an2\pos(640,688)}此后四渡赤水巧渡金沙江
+Dialogue: 0,0:00:39.31,0:00:44.51,Default,,0,0,0,,{\an2\pos(640,688)}在川黔滇交界的群山之间反复穿插迂回
+Dialogue: 0,0:00:44.51,0:00:48.18,Default,,0,0,0,,{\an2\pos(640,688)}把几十万追兵远远甩在身后
+Dialogue: 0,0:00:48.40,0:00:50.56,Default,,0,0,0,,{\an2\pos(640,688)}队伍继续折向北方
+Dialogue: 0,0:00:50.56,0:00:55.41,Default,,0,0,0,,{\an2\pos(640,688)}在敌人火力封锁下夺取大渡河上的泸定桥
+Dialogue: 0,0:00:55.41,0:01:00.00,Default,,0,0,0,,{\an2\pos(640,688)}十三根铁索之上为北上打开了一条通道
+Dialogue: 0,0:01:00.38,0:01:02.94,Default,,0,0,0,,{\an2\pos(640,688)}翻越终年积雪的夹金山
+Dialogue: 0,0:01:02.94,0:01:05.76,Default,,0,0,0,,{\an2\pos(640,688)}走过人迹罕至的茫茫草地
+Dialogue: 0,0:01:05.76,0:01:08.07,Default,,0,0,0,,{\an2\pos(640,688)}饥饿寒冷和高原反应
+Dialogue: 0,0:01:08.07,0:01:11.14,Default,,0,0,0,,{\an2\pos(640,688)}夺走了许多年轻战士的生命
+Dialogue: 0,0:01:11.68,0:01:15.50,Default,,0,0,0,,{\an2\pos(640,688)}一九三五年十月红军抵达陕北吴起镇
+Dialogue: 0,0:01:15.50,0:01:18.13,Default,,0,0,0,,{\an2\pos(640,688)}两万五千里纵横十一个省
+Dialogue: 0,0:01:18.13,0:01:19.80,Default,,0,0,0,,{\an2\pos(640,688)}长征以胜利结束
+Dialogue: 0,0:01:19.80,0:01:23.15,Default,,0,0,0,,{\an2\pos(640,688)}也把一个民族的韧性写进了历史

@@ -1,0 +1,506 @@
+{
+ "sceneId": "changzheng-v3",
+ "canvas": {
+  "width": 1280,
+  "height": 720
+ },
+ "storyBasis": "按真实地理走向：江西瑞金出发向西，经湘江、遵义、赤水与金沙江，再北上过大渡河泸定桥、雪山草地，最终抵达陕北吴起镇。",
+ "sceneDurationMs": 83148,
+ "elements": [
+  {
+   "id": "ruijin",
+   "label": "红旗（瑞金）",
+   "sequence": 1,
+   "narrativeRole": "东南起点出发",
+   "subtitle": "",
+   "type": "start",
+   "inkPath": "grid",
+   "region": {
+    "x": 1018,
+    "y": 526,
+    "width": 96,
+    "height": 86
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 140,
+    "durationMs": 7452,
+    "maskPaddingPx": 12,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     1018,
+     526
+    ],
+    "end": [
+     1114,
+     612
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "ruijin_label",
+   "label": "写字·瑞金",
+   "sequence": 2,
+   "narrativeRole": "写出「瑞金 1934.10」",
+   "subtitle": "瑞金",
+   "type": "text",
+   "inkPath": "textwrite",
+   "region": {
+    "x": 1092,
+    "y": 468,
+    "width": 180,
+    "height": 78
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 7592,
+    "durationMs": 4568,
+    "maskPaddingPx": 10,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     1092,
+     468
+    ],
+    "end": [
+     1272,
+     546
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "xiangjiang",
+   "label": "湘江（水波）",
+   "sequence": 3,
+   "narrativeRole": "向西突围",
+   "subtitle": "",
+   "type": "river",
+   "inkPath": "grid",
+   "region": {
+    "x": 966,
+    "y": 396,
+    "width": 144,
+    "height": 78
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 12980,
+    "durationMs": 5754,
+    "maskPaddingPx": 12,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     966,
+     396
+    ],
+    "end": [
+     1110,
+     474
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "xiangjiang_label",
+   "label": "写字·湘江",
+   "sequence": 4,
+   "narrativeRole": "写出「湘江 1934.11」",
+   "subtitle": "湘江",
+   "type": "text",
+   "inkPath": "textwrite",
+   "region": {
+    "x": 972,
+    "y": 326,
+    "width": 178,
+    "height": 70
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 18734,
+    "durationMs": 3526,
+    "maskPaddingPx": 10,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     972,
+     326
+    ],
+    "end": [
+     1150,
+     396
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "zunyi",
+   "label": "会址（遵义）",
+   "sequence": 5,
+   "narrativeRole": "历史转折点",
+   "subtitle": "",
+   "type": "meeting",
+   "inkPath": "grid",
+   "region": {
+    "x": 854,
+    "y": 376,
+    "width": 96,
+    "height": 106
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 22840,
+    "durationMs": 8122,
+    "maskPaddingPx": 12,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     854,
+     376
+    ],
+    "end": [
+     950,
+     482
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "zunyi_label",
+   "label": "写字·遵义",
+   "sequence": 6,
+   "narrativeRole": "写出「遵义 1935.01」",
+   "subtitle": "遵义",
+   "type": "text",
+   "inkPath": "textwrite",
+   "region": {
+    "x": 790,
+    "y": 292,
+    "width": 178,
+    "height": 74
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 30962,
+    "durationMs": 4978,
+    "maskPaddingPx": 10,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     790,
+     292
+    ],
+    "end": [
+     968,
+     366
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "chishui",
+   "label": "赤水金沙（西段）",
+   "sequence": 7,
+   "narrativeRole": "四渡赤水、巧渡金沙",
+   "subtitle": "",
+   "type": "route",
+   "inkPath": "grid",
+   "region": {
+    "x": 546,
+    "y": 376,
+    "width": 308,
+    "height": 182
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 35940,
+    "durationMs": 7589,
+    "maskPaddingPx": 12,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     546,
+     376
+    ],
+    "end": [
+     854,
+     558
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "chishui_label",
+   "label": "写字·赤水·金沙",
+   "sequence": 8,
+   "narrativeRole": "写出「赤水·金沙 1935.01-05」",
+   "subtitle": "赤水·金沙",
+   "type": "text",
+   "inkPath": "textwrite",
+   "region": {
+    "x": 558,
+    "y": 284,
+    "width": 228,
+    "height": 82
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 43529,
+    "durationMs": 4651,
+    "maskPaddingPx": 10,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     558,
+     284
+    ],
+    "end": [
+     786,
+     366
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "luding",
+   "label": "铁索桥（泸定）",
+   "sequence": 9,
+   "narrativeRole": "折向北方",
+   "subtitle": "",
+   "type": "bridge",
+   "inkPath": "grid",
+   "region": {
+    "x": 146,
+    "y": 316,
+    "width": 416,
+    "height": 280
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 48400,
+    "durationMs": 7192,
+    "maskPaddingPx": 12,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     146,
+     316
+    ],
+    "end": [
+     562,
+     596
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "luding_label",
+   "label": "写字·泸定桥",
+   "sequence": 10,
+   "narrativeRole": "写出「泸定桥 1935.05」",
+   "subtitle": "泸定桥",
+   "type": "text",
+   "inkPath": "textwrite",
+   "region": {
+    "x": 106,
+    "y": 414,
+    "width": 190,
+    "height": 82
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 55592,
+    "durationMs": 4408,
+    "maskPaddingPx": 10,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     106,
+     414
+    ],
+    "end": [
+     296,
+     496
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "xueshan",
+   "label": "雪山草地",
+   "sequence": 11,
+   "narrativeRole": "极端自然环境",
+   "subtitle": "",
+   "type": "environment",
+   "inkPath": "grid",
+   "region": {
+    "x": 146,
+    "y": 90,
+    "width": 254,
+    "height": 214
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 60380,
+    "durationMs": 6671,
+    "maskPaddingPx": 12,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     146,
+     90
+    ],
+    "end": [
+     400,
+     304
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "xueshan_label",
+   "label": "写字·雪山草地",
+   "sequence": 12,
+   "narrativeRole": "写出「雪山草地 1935.06-08」",
+   "subtitle": "雪山草地",
+   "type": "text",
+   "inkPath": "textwrite",
+   "region": {
+    "x": 148,
+    "y": 34,
+    "width": 232,
+    "height": 80
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 67051,
+    "durationMs": 4089,
+    "maskPaddingPx": 10,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     148,
+     34
+    ],
+    "end": [
+     380,
+     114
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "beishang",
+   "label": "路线（奔向陕北）",
+   "sequence": 13,
+   "narrativeRole": "沿顶部向东",
+   "subtitle": "",
+   "type": "route",
+   "inkPath": "grid",
+   "region": {
+    "x": 376,
+    "y": 86,
+    "width": 396,
+    "height": 124
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 71680,
+    "durationMs": 2810,
+    "maskPaddingPx": 12,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     376,
+     86
+    ],
+    "end": [
+     772,
+     210
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "wuqi",
+   "label": "宝塔（吴起镇）",
+   "sequence": 14,
+   "narrativeRole": "落脚点",
+   "subtitle": "",
+   "type": "end",
+   "inkPath": "grid",
+   "region": {
+    "x": 756,
+    "y": 12,
+    "width": 154,
+    "height": 142
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 74490,
+    "durationMs": 2970,
+    "maskPaddingPx": 12,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     756,
+     12
+    ],
+    "end": [
+     910,
+     154
+    ],
+    "easing": "easeInOut"
+   }
+  },
+  {
+   "id": "beishang_label",
+   "label": "写字·吴起镇",
+   "sequence": 15,
+   "narrativeRole": "写出「吴起镇 1935.10」",
+   "subtitle": "吴起镇",
+   "type": "text",
+   "inkPath": "textwrite",
+   "region": {
+    "x": 546,
+    "y": 14,
+    "width": 214,
+    "height": 82
+   },
+   "reveal": {
+    "direction": "left_to_right",
+    "startMs": 77460,
+    "durationMs": 2248,
+    "maskPaddingPx": 10,
+    "protectedRegions": []
+   },
+   "handPath": {
+    "start": [
+     546,
+     14
+    ],
+    "end": [
+     760,
+     96
+    ],
+    "easing": "easeInOut"
+   }
+  }
+ ]
+}
